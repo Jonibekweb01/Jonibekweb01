@@ -2,7 +2,7 @@
 
 <p>
 
-<img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+<img alt=”JavaScript” src=”https://avatars.mds.yandex.net/i?id=e489c82e64d0fc9a476c2349362acf2f99d7d5ce-12423213-images-thumbs&n=13" />
 
 <img alt=”React” src=”https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
 
