@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Cybersecurity (Red Teaming & Pentesting)**
+- 🔭 Currently working on at AnorBank and **Cybersecurity (Red Teaming & Pentesting)**
 - 🌱 Specializing in **React.js, Next.js, TypeScript**
 - 👨‍🏫 Mentored **500+ students** in web development
 - 🎯 Open to opportunities in **Dubai, UAE**
